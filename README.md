@@ -5,7 +5,6 @@
 </em></p>
 
 [![Twitter: mia9059](https://img.shields.io/twitter/follow/mia9059?style=social)](https://twitter.com/mia9059)
-[![Linkedin: malihanan](https://img.shields.io/badge/-malihanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/malihanan/)
 [![GitHub malihanan](https://img.shields.io/github/followers/malihanan?label=follow&style=social)](https://github.com/malihanan/)
 [![Medium @malihanan](https://img.shields.io/badge/@malihanan-black?style=flat&logo=medium)](https://medium.com/@malihanan/)
 [![Instagram @malihanan](https://img.shields.io/badge/@mia9059-833AB4?style=flat&logo=instagram)](https://www.instagram.com/mia9059/)
