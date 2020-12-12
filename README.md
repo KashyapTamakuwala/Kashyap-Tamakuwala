@@ -15,22 +15,17 @@
 ```javascript
 var maliha = {
   pronouns: "she" | "her",
-  code: [Python, Java, C, C#, Dart, HTML, CSS, Javascript],
+  code: [Python, Java, C, C#, HTML, CSS, Javascript],
   tools: [Git, Azure],
-  frameworks: [Flutter, Django, Angular, .Net],
+  frameworks: [Django, Angular, .Net],
   techCommunities: {
-                        core-team-member: "DSC DDU",
-                        team-head: "Mobile Development Team, DSC DDU",
-                        member: "Microsoft Learn Student Ambassadors"
+                        core-team-member: "Computer Society of India student branch ddu"
                    },
   about: "I am a student who is passionate about learning and creating solutions.\n
-          I have worked with web, mobile and a bit in NLP.\n
           I am currently exploring many horizons. :)"
 }
 ```
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
-![Github stats](https://github-readme-stats.vercel.app/api?username=malihanan&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KashyapTamakuwala&show_icons=true&hide_border=true)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-#### Show ❤️ By Starring My Repos!
