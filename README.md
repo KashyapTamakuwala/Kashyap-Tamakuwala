@@ -13,8 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-var maliha = {
-  pronouns: "she" | "her",
+var Kashyap = {
   code: [Python, Java, C, C#, HTML, CSS, Javascript],
   tools: [Git, Azure],
   frameworks: [Django, Angular, .Net],
