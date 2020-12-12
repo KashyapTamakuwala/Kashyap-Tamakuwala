@@ -1,5 +1,5 @@
 # Kashyap-Tamakuwala
-<h2> Hi, I'm Kashyap Tamakuwala! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kashyap Tamakuwala! </h2>
 <img style='border-radius: 50%;' align='right' src="https://ih1.redbubble.net/image.1016924547.2059/st,small,507x507-pad,600x600,f8f8f8.jpg" width="24%">
 <p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Core Team Member & Designing associate at Computer Society of India Student Branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
@@ -10,7 +10,7 @@
 [![Instagram @kt___1999](https://img.shields.io/badge/@kt___1999-833AB4?style=flat&logo=instagram)](https://www.instagram.com/kt___1999/)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```javascript
 var Kashyap = {
