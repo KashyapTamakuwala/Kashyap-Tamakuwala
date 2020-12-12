@@ -4,10 +4,10 @@
 <p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Core Team Member & Designing associate at Computer Society of India Student Branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: mia9059](https://img.shields.io/twitter/follow/mia9059?style=social)](https://twitter.com/mia9059)
-[![GitHub malihanan](https://img.shields.io/github/followers/malihanan?label=follow&style=social)](https://github.com/malihanan/)
-[![Medium @malihanan](https://img.shields.io/badge/@malihanan-black?style=flat&logo=medium)](https://medium.com/@malihanan/)
-[![Instagram @malihanan](https://img.shields.io/badge/@mia9059-833AB4?style=flat&logo=instagram)](https://www.instagram.com/mia9059/)
+
+[![Linkedin: KashyapTamakuwala](https://img.shields.io/badge/-KashyapTamakuwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/kashyap-tamakuwala-075a62168/)
+[![GitHub KashyapTamakuwala](https://img.shields.io/github/followers/KashyapTamakuwala?label=follow&style=social)](https://github.com/KashyapTamakuwala/)
+[![Instagram @kt___1999](https://img.shields.io/badge/@kt___1999-833AB4?style=flat&logo=instagram)](https://www.instagram.com/kt___1999/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
