@@ -1,7 +1,7 @@
 # Kashyap-Tamakuwala
 <h2> Hi, I'm Kashyap Tamakuwala! </h2>
 <img style='border-radius: 50%;' align='right' src="https://ih1.redbubble.net/image.1016924547.2059/st,small,507x507-pad,600x600,f8f8f8.jpg" width="24%">
-<p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Core Team Member & Designing associate at Computer Society of India Student Branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Student at <a href="https://www.sjsu.edu/">San Jose State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Core Team Member & Designing associate at Computer Society of India Student Branch <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 
